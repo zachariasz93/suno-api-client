@@ -1,0 +1,7 @@
+"""
+CLI Entry Point for Suno API Client
+"""
+from .commands import cli
+
+if __name__ == "__main__":
+    cli()
